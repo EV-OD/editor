@@ -7,7 +7,7 @@ $(document).ready(function () {
     });
     $('#summernote').summernote('code',
 
-        '<h1 style="text-align: center; "><u>भर्साय पसच भसइ ग्रुप</u></h1><p style="text-align: center; "><br></p><p style="text-align: center; "><br></p>'
+        '<h1 style="text-align: center; "><u>भर्साय पसच भसइ ग्रुप</u></h1><p style="text-align: center; "><br></p><p style="text-align: left;"><br></p>'
     );
 });
 
